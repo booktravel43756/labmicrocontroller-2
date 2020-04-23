@@ -19,6 +19,8 @@ Lab 4 : การประยุกต์ใช้ไมโครคอลโท
 
 [การสมัคร Github](https://www.youtube.com/watch?v=rIXTcgh79iw&t=17s)
 
+[การสร้าง Github page](https://www.youtube.com/watch?v=xbYaU6R0rFA&feature=youtu.be)
+
 [การประยุกต์ใช้ไมโครคอลโทรลเลอร์](https://drive.google.com/file/d/1RO_lDLuhebX77rjs_g5ehFfXTlRSTHKT/view?usp=sharing)
 
 -------------------------------------------------------------------------------------------------------------------------------------
